@@ -67,7 +67,7 @@ I'm Anudip Saha, a second-year B.Tech student at KIIT University, specializing i
 ## 📫 Let's Connect
 
 * 🌐 [GitHub: Aneebon](https://github.com/Aneebon)
-* 📧 Email: [anudipsaha@example.com](anudipsaha44@gmailcom) 
+* 📧 Email: anudipsaha44@gmailcom 
 
 ---
 
